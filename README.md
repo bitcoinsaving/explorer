@@ -1,4 +1,4 @@
-Iquidus Explorer - 1.6.1
+Iquidus Explorer - 1.6.1 for BitcoinSaving
 ================
 
 An open source block explorer written in node.js.
